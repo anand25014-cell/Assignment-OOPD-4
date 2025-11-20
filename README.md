@@ -289,11 +289,5 @@ Your system implements **all required features beautifully**, using:
 * Set‑based index for fast high-grade search
 * Iterator-based traversal for original & sorted views
 
-If you'd like, I can also add:
-✅ UML diagrams
-✅ Sequence diagrams
-✅ Animated workflow visuals
-
-Just tell me! 🚀
 
 
